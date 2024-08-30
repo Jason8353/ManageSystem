@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "userForm", "userForm.csproj", "{C5406688-129E-428D-8683-68CC7B725B6B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "email", "email\email.vdproj", "{9406B8B7-C2A0-4E92-A4D1-B668E914DD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5406688-129E-428D-8683-68CC7B725B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5406688-129E-428D-8683-68CC7B725B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5406688-129E-428D-8683-68CC7B725B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5406688-129E-428D-8683-68CC7B725B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9406B8B7-C2A0-4E92-A4D1-B668E914DD75}.Debug|Any CPU.ActiveCfg = Debug
+		{9406B8B7-C2A0-4E92-A4D1-B668E914DD75}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28460964-5B55-451F-A41D-F77CB07436A0}
+	EndGlobalSection
+EndGlobal
