@@ -1,0 +1,3 @@
+[submodule "ManageSystem"]
+	path = ManageSystem
+	url = https://github.com/Jason8353/ManageSystem.git
